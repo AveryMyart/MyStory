@@ -1,8 +1,8 @@
-# Project 1 - *My Story App
+# Project 1 - *MyStory App
 
 Submitted by: **Avery Myart**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**MyStory** is an app that introduces myself by providing 3 pieces of information about my background in respective UIViews. 
 
 Time spent: **4** hours spent in total
 
