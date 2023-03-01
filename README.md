@@ -4,7 +4,7 @@ Submitted by: **Avery Myart**
 
 **MyStory** is an app that introduces myself by providing 3 pieces of information about my background in respective UIViews. 
 
-Time spent: **4** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## Required Features
 
@@ -12,14 +12,14 @@ The following **required** functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+  - [x] 
 - [x] Users are able to see at least 3 context items
 - [x] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
 The following **optional** features are implemented:
 
 - [x] Improve and customize the user interface through styling and coloring
-- [ ] Allow users to scroll when context items are off-screen (table view implemention)
+- [x] Allow users to scroll when context items are off-screen (scroll view implemention)
 
 ## Video Walkthrough
 
@@ -33,7 +33,8 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had difficulty getting all main page elements to fit on smaller iphone models when in landscape mode. I fixed this by converting the stack view to a scroll view.
+I also had issues with the description text on the detail pages not staying anchored to the bottom of the screen. This was also fixed by switching to a scroll view.
 
 ## License
 
